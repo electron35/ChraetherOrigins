@@ -1,0 +1,14 @@
+{
+	"powers": [
+		"origins:more_exhaustion",
+		"chraether:natural_fortitude",
+		"chraether:big_sprig",
+		"chraether:weak_to_fire",
+		"chraether:sunny_fortitude"
+	],
+	"icon": "minecraft:oak_sapling",
+	"order": 4,
+	"impact": 1,
+	"name": "Treekind Spriggan",
+	"description": "A kind of half human, half tree person. Don't underestimate their small size, they can be very strong"
+}
