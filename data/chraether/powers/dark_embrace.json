@@ -1,0 +1,19 @@
+{
+  "type": "origins:night_vision",
+  "strength": 0.5,
+  "condition": {
+    "type": "origins:or",
+    "conditions": [
+      {
+        "type": "origins:exposed_to_sun",
+		"inverted": true
+      },
+      {
+        "type": "origins:daytime",
+		"inverted": true
+      }
+    ]
+  },
+  "name": "Dark embrace",
+  "description": "You are faster in the dark and can see in it"
+}

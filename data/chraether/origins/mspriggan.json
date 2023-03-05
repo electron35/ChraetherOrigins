@@ -1,0 +1,17 @@
+{
+	"powers": [
+		"chraether:weakling",
+		"chraether:size/small_sprig",
+		"chraether:damage_change/weak_to_fire",
+		"chraether:dark_embrace",
+		"origin:fragile",
+		"chraether:dripping",
+		"chraether:poison_resistance"		
+		
+	],
+	"icon": "minecraft:red_mushroom",
+	"order": 2,
+	"impact": 2,
+	"name": "Fungic Spriggan",
+	"description": "The mushroom person, they dwell in the dark and are known for their poisonous side"
+}
