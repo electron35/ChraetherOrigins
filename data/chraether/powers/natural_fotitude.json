@@ -1,0 +1,15 @@
+{
+    "type": "origins:attribute",
+    "modifier": {
+        "name": "Natural Fortitude",
+        "attribute": "minecraft:generic.armor",
+        "value": 1,
+        "operation": "addition"
+    },
+   "modifier2": {
+        "name": "Natural Fortitude",
+        "attribute": "minecraft:generic.knockback_resistance",
+        "value": 1,
+        "operation": "addition"
+    }
+}
