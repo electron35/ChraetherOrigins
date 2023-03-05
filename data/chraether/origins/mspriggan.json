@@ -4,9 +4,10 @@
 		"chraether:size/small_sprig",
 		"chraether:damage_change/weak_to_fire",
 		"chraether:dark_embrace",
-		"origin:fragile",
+		"chraether:dark_embrace_speed",
+		"origins:fragile",
 		"chraether:dripping",
-		"chraether:poison_resistance"		
+		"chraether:poison_resistance"
 		
 	],
 	"icon": "minecraft:red_mushroom",

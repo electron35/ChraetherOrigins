@@ -1,9 +1,11 @@
 {
     "type": "origins:attribute",
     "modifier": {
-        "name": "Weakling",
+        
         "attribute": "minecraft:generic.attack_damage",
         "value": 0.7,
         "operation": "multiply_total"
-    }
+    },
+	"name": "Weakling",
+	"description":"You do less damage"
 }
