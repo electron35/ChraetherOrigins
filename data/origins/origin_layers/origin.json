@@ -1,6 +1,7 @@
 {
   "replace": false,
   "origins": [
-    "chraether:hspriggan"
+    "chraether:fspriggan"
+	"chraether:wspriggan"
   ]
 }
