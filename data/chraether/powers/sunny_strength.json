@@ -1,0 +1,20 @@
+{
+  "type": "origins:attribute",
+  "attribute": "minecraft:generic.attack_damage",
+  "value": 2,
+  "operation": "addition",
+  "condition": {
+    "type": "origins:and",
+    "conditions": [
+      {
+        "type": "origins:exposed_to_sun"
+      },
+      {
+        "type": "origins:invisible",
+        "inverted": true
+      }
+    ]
+  },
+  "name": "Sunlight Strength",
+  "description": "When the sun is touching your skin, you get stronger"
+}

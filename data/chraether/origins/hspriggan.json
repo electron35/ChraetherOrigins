@@ -1,0 +1,14 @@
+{
+	"powers": [
+		"origins:more_exhaustion",
+		"chraether:natural_strength",
+		"chraether:small_sprig",
+		"chraether:weak_to_fire",
+		"chraether:sunny_strength"
+	],
+	"icon": "minecraft:sunflower",
+	"order": 4,
+	"impact": 1,
+	"name": "Flowery Spriggan",
+	"description": "A kind of half human, half flower person. Don't underestimate their small size, they can be very strong"
+}
