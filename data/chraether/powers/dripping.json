@@ -61,4 +61,7 @@
 		"hud_render": {
 			"should_render": false
 		}
-	}
+	},
+    "name": "Dripping",
+	"description": "Your skin can produce poisonous liquid that can make anyone attacking you instantly regret their choice"
+}

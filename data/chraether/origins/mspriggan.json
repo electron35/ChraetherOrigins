@@ -1,12 +1,11 @@
 {
 	"powers": [
+		"chraether:dripping",
 		"chraether:weakling",
 		"chraether:size/small_sprig",
 		"chraether:damage_change/weak_to_fire",
 		"chraether:dark_embrace",
-		"chraether:dark_embrace_speed",
 		"origins:fragile",
-		"chraether:dripping",
 		"chraether:poison_resistance"
 		
 	],

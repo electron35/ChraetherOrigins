@@ -5,16 +5,20 @@
   "value": 0.2,
   "operation": "addition"
   },
-  "hidden": true,
   "condition": {
     "type": "origins:or",
     "conditions": [
       {
         "type": "origins:exposed_to_sun",
 		"inverted": true
+      },
+      {
+        "type": "origins:daytime",
+		"inverted": true
       }
     ]
   },
+  "hidden": true,
   "name": "Dark embrace Speed",
   "description": "You are faster in the dark and can see in it"
 }

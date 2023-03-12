@@ -20,12 +20,12 @@
             },
 			{
                 "type": "origins:add_velocity",
-                "y": 1,
+                "y": 0.5,
                 "set": true
             },
             {
                 "type": "origins:add_velocity",
-                "z": 2,
+                "z": 1,
                 "space": "local"
             },
             {
@@ -33,7 +33,7 @@
                 "ticks": 10,
                 "action": {
                   "type": "origins:execute_command",
-                  "command": "effect give @s minecraft:jump_boost 3 255",
+                  "command": "effect give @s minecraft:jump_boost 3 255 true",
                   "permission_level": 4
                   }                
             },
@@ -50,13 +50,13 @@
                 "ticks": 5,
                 "action": {
                   "type": "origins:execute_command",
-                  "command": "effect give @s minecraft:speed 100 2",
+                  "command": "effect give @s minecraft:speed 3 2",
                   "permission_level": 4
                   }                
             }
         ]
     },
-    "cooldown": 100,
+    "cooldown": 60,
 	"hud_render": {
         "sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_03.png",
         "bar_index": 2

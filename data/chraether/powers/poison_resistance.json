@@ -3,5 +3,6 @@
   "effects": [
     "minecraft:poison"
   ],
-  "name":"Poison Resistance"
+  "name":"Poison Resistance",
+  "description": "You are immune to poison"
 }
