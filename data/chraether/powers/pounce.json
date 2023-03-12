@@ -20,12 +20,12 @@
             },
 			{
                 "type": "origins:add_velocity",
-                "y": 2,
+                "y": 1,
                 "set": true
             },
             {
                 "type": "origins:add_velocity",
-                "z": 1,
+                "z": 2,
                 "space": "local"
             },
             {
@@ -50,7 +50,7 @@
                 "ticks": 5,
                 "action": {
                   "type": "origins:execute_command",
-                  "command": "effect give @s minecraft:speed 2 100",
+                  "command": "effect give @s minecraft:speed 100 2",
                   "permission_level": 4
                   }                
             }
