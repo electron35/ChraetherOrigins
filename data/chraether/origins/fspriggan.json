@@ -2,8 +2,8 @@
 	"powers": [
 		"origins:more_exhaustion",
 		"chraether:natural_strength",
-		"chraether:small_sprig",
-		"chraether:weak_to_fire",
+		"chraether:size/small_sprig",
+		"chraether:damage_change/weak_to_fire",
 		"chraether:sunny_strength"
 	],
 	"icon": "minecraft:sunflower",

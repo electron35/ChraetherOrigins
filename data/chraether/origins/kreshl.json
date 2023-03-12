@@ -1,0 +1,13 @@
+{
+	"powers": [
+		"origins:climbing",
+		"chraether:pounce",
+		"chraether:damage_change/less_kinetic_damage",
+		"origins:more_exhaustion"
+	],
+	"icon": "minecraft:egg",
+	"order": 3,
+	"impact": 1,
+	"name": "Kreshl",
+	"description": "The weird being coming from the Vasta Nekonato. They are agile and are used to climb mountain with the help of their tentacle in their back"
+}
