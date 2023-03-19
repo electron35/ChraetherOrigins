@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#E#",
+        "DKD",
+        "#G#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:sculk"
+        },
+        "E": {
+            "item": "minecraft:echo_shard"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "K": {
+            "item": "minecraft:egg"
+        },
+        "G": {
+            "item": "minecraft:golden_apple"
+        }
+    },
+    "result": {
+        "item": "origins:orb_of_origin",
+        "count": 1
+    }
+}
